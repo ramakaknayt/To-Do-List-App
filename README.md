@@ -18,10 +18,12 @@ A simple and intuitive Todo List web application built with **HTML**, **CSS**, a
 1. Clone the repository:
    ```bash
    git clone https://github.com/ramakaknayt/To-Do-List-App.git
+   ```
 2. Navigate to the project folder:
       ```bash
    cd todo-list-web-app
-3. Open **index.html** in your browser to start using the app.
+      ```
+3. Open `index.html` in your browser to start using the app.
 
 ## Contributions
 Feel free to fork the repository, create a new branch, and submit a pull request with your enhancements or bug fixes. Contributions are always welcome! 🎉
